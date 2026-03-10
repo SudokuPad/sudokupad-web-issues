@@ -1,2 +1,2 @@
 # sudokupad-web-issues
-Public issue tracking repo for the CtC web app at app.crackingthecryptic.com
+Public issue tracking repo for Sven's SudokuPad at sudokupad.app
